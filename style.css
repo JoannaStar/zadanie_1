@@ -1,0 +1,51 @@
+* {
+  font-family: Georgia, serif;
+  
+}
+
+body {
+
+  background-image: url('https://images.unsplash.com/photo-1440635592348-167b1b30296f?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=ebd49a823d1c9755cce8ac8e368b804f.jpg');
+  background-size: cover;
+}
+
+ul {
+  display: inline;
+  color: #ffffff;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 80px;  
+  font-weight: bold;
+  
+}
+
+.jumbotron p {
+  font-size: 40px;
+  color: #fff;
+
+}
+
+.menubar li {
+  display: inline;
+  margin: auto auto auto 30px;
+  font-weight: bold;
+  text-transform: uppercase; 
+  color: #fff;
+}
+
+h1 {
+  color: #fff; 
+
+}
+
+h3 {
+  color: #fff; 
+
+}
+
+p {
+
+  color: #fff;
+}

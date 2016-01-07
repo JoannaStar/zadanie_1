@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+   
+  <metacharset="UTF-8">
+  <title>Joanna Staruszkiewicz Portfolio</title>
+
+    <link rel="stylesheet" href="style.css" type="text/css">
+
+</head>
+  
+<body>
+  <nav>
+    <div class="menubar">
+        <ul>
+          <li><a href="index.html">O mnie</a></li>
+          <li><a href="portfolio.html">Portfolio</a></li>
+          <li><a href="CV.html">CV</a></li>
+          <li><a href="kontakt.html">Kontakt</a></li>
+        </ul>
+    </div>
+  </nav>
+         
+
+  <h1>Curriculum Vitae</h1>
+    
+  <h3>Edukacja:</h3>
+  
+    <ul>
+       <li>E-marketing - Studia podyplomowe</li>
+       <li>Krakowska Akademia im Andrzeja Frycza Modrzewskiego</li>
+       <li>lata 2011-2012</li> 
+
+    </ul>
+
+
+
+    <ul>
+       <li>Turystyka i Rekreacja - Studia magisterskie</li>
+       <li>Górnoœl¹ska Wy¿sza Szko³a Handlowa im. Wojciecha Korfantego</li>
+       <li>lata 1999-2004</li>
+
+    </ul>
+  
+  <h3>Umiejêtnoœci:</h3>
+    <ul>
+       <li>bardzo dobra znajomoœæ jêzyka angielskiego</li>
+       <li></li>
+       <li></li>
+
+    </ul>
+
+</body>
+</html>
